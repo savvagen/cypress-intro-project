@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://trello.com",
+    "integrationFolder": "cypress/integration/trello",
+    "screenshotsFolder": "cypress/screenshots",
+    "testFiles": "**/*.spec.js",
+    "videoUploadOnPasses": true,
+    "videosFolder": "cypress/videos",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 8000,
+    "reporter": "mochawesome"
+}
